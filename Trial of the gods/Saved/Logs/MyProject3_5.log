@@ -1773,3 +1773,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.03-18.20.17:883][497]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
 [2022.04.03-18.20.17:991][497]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
 [2022.04.03-18.20.18:354][497]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.04.03-18.20.18:745][497]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.04.03-18.20.18:824][497]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.04.03-18.20.18:824][497]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.04.03-18.20.18:923][497]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.04.03-18.20.19:541][497]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.04.03-18.20.19:581][497]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.04.03-18.20.19:581][497]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.04.03-18.20.19:606][497]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.04.03-18.20.19:664][497]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.04.03-18.20.19:691][497]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.04.03-18.20.19:691][497]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.04.03-18.20.19:702][497]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.04.03-18.20.19:702][497]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.04.03-18.20.19:750][497]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.04.03-18.20.19:836][497]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.04.03-18.20.19:870][497]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.04.03-18.20.19:921][497]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.04.03-18.20.20:297][497]LogD3D11RHI: Shutdown
+[2022.04.03-18.20.20:297][497]LogD3D11RHI: CleanupD3DDevice
+[2022.04.03-18.20.27:040][497]LogExit: Exiting.
+[2022.04.03-18.20.29:233][497]Log file closed, 04/03/22 20:20:29
